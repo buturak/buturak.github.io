@@ -14,7 +14,7 @@ Secondary: Judgment and decision making, organizational behavior, social psychol
 
 - [Gender (counter-)stereotypes in media and women's willingness to compete](https://goo.gl/OxKWXA). (with Duygu Salman Öztürk and Emre Yıldız.) Submitted.
 
-- [Control increases stealing](https://goo.gl/Ng1RvZ). Duygu Salman Öztürk and Emre Yıldız.) Submitted.
+- [Control increases stealing](https://goo.gl/Ng1RvZ). (with Duygu Salman Öztürk and Emre Yıldız.) Submitted.
 
 - [Characterizing self-selection into leadership and leadership styles: the role of physical and cognitive qualities](https://goo.gl/yZTXQ5). (with Duygu Salman Öztürk and Emre Yıldız.) This is the old version. A new version will soon be available.
 
