@@ -8,11 +8,11 @@ Secondary: Judgment and decision making, organizational behavior, social psychol
 
 - [Choice overload and asymmetric regret](https://goo.gl/3yW8kX). (with Özgür Evren.) Forthcoming in _Theoretical Economics_.
 
-- [Persistence of cooperation in the absence of formal sanctions: an experimental investigation](https://goo.gl/ZqqCdp) (with Carl F. Fey, Mesut Karakaş, and Emre Yıldız.) Published in the _Academy of Management Proceedings_, Vol. 1, No. 1.
+- [Persistence of cooperation in the absence of formal sanctions: an experimental investigation](https://goo.gl/ZqqCdp). (with Carl F. Fey, Mesut Karakaş, and Emre Yıldız.) Published in the _Academy of Management Proceedings_, Vol. 1, No. 1.
 
 ## Working papers
 
-- [Gender (counter-)stereotypes in media and women's willingness to compete](https://goo.gl/OxKWXA) (with Duygu Salman Öztürk and Emre Yıldız.) Submitted.
+- [Gender (counter-)stereotypes in media and women's willingness to compete](https://goo.gl/OxKWXA). (with Duygu Salman Öztürk and Emre Yıldız.) Submitted.
 
 - [Control increases stealing](https://goo.gl/Ng1RvZ). Duygu Salman Öztürk and Emre Yıldız.) Submitted.
 
@@ -30,8 +30,8 @@ Secondary: Judgment and decision making, organizational behavior, social psychol
 
 ## Work in progress
 
-- Does control really have hidden costs? (with Duygu Salman \"{O}zt\"{u}rk and Emre Y\i ld\i z.) (Data was collected on May 13, 2017. Paper is planned to be completed in September 2017.)
+- Does control really have hidden costs? (with Duygu Salman Öztürk and Emre Yıldız.) (Data was collected on May 13, 2017. Paper is planned to be completed in September 2017.)
 
-- Gender and delegation of wage choice. (with Duygu Salman \"{O}zt\"{u}rk and Emre Y\i ld\i z.) (Data was collected on May 13, 2017. Paper is planned to be completed in September 2017.)
+- Gender and delegation of wage choice. (with Duygu Salman Öztürk and Emre Yıldız.) (Data was collected on May 13, 2017. Paper is planned to be completed in September 2017.)
 
 - The effect of priming body image on economic preferences of young adults. (Data was collected on April 1-2, 2017. Paper is planned to be completed in September 2017.)
