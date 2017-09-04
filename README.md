@@ -1,12 +1,24 @@
-## Welcome to GitHub Pages
+## Research interests
 
-You can use the [editor on GitHub](https://github.com/buturak/buturak.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Primary: Behavioral economics, experimental economics, individual decision theory, game theory.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Secondary: Judgment and decision making, organizational behavior, social psychology, cognitive psychology.
 
-### Markdown
+## Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Choice overload and asymmetric regret](https://goo.gl/3yW8kX). (with Özgür Evren.) Forthcoming in _Theoretical Economics_.
+
+- [Persistence of cooperation in the absence of formal sanctions: an experimental investigation](https://goo.gl/ZqqCdp) (with Carl F. Fey, Mesut Karakaş, and Emre Yıldız.) Published in the _Academy of Management Proceedings_, Vol. 1, No. 1.
+
+## Working papers
+
+- [Gender (counter-)stereotypes in media and women's willingness to compete](https://goo.gl/OxKWXA) (with Duygu Salman Öztürk and Emre Yıldız.) Submitted.
+
+- [Control increases stealing](https://goo.gl/Ng1RvZ). Duygu Salman Öztürk and Emre Yıldız.) Submitted.
+
+- [Characterizing self-selection into leadership and leadership styles: the role of physical and cognitive qualities](https://goo.gl/yZTXQ5). (with Duygu Salman Öztürk and Emre Yıldız.) This is the old version. A new version will soon be available.
+
+- An experimental investigation of how women and men price competition. (with Duygu Salman Öztürk and Emre Yıldız.)  
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +40,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/buturak/buturak.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
