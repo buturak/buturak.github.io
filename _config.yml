@@ -2,13 +2,6 @@ theme: jekyll-theme-minimal
 title: Gökhan Buturak
 description: PhD in Economics, Stockholm School of Economics
 autor_email: buturak@gmail.com
-
-exclude:
-  - CHANGELOG.md
-  - CNAME
-  - Dockerfile
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - Vagrantfile
+show_downloads: false
+gems:
+  - jekyll-mentions
