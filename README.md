@@ -20,26 +20,18 @@ Secondary: Judgment and decision making, organizational behavior, social psychol
 
 - An experimental investigation of how women and men price competition. (with Duygu Salman Öztürk and Emre Yıldız.)  
 
-```markdown
-Syntax highlighted code block
+- [Status quo bias with choice avoidance](https://goo.gl/AfWKVD).
 
-# Header 1
-## Header 2
-### Header 3
+- A theory of choice when 'no choice' is an option. (with Özgür Evren.) This paper has been replaced with the paper titled as _Choice overload and asymmetric regret_.
 
-- Bulleted
-- List
+- Rational choice deferral. (with Özgür Evren.) This paper has been replaced with the paper titled as _Choice overload and asymmetric regret_.
 
-1. Numbered
-2. List
+- [Measuring time optimisation due to digitalisation in banking services](https://goo.gl/CBiHKL). (with Anna Felländer, Stefan Fölster, and Claire Ingram-Bogusz.)
 
-**Bold** and _Italic_ and `Code` text
+## Work in progress
 
-[Link](url) and ![Image](src)
-```
+- Does control really have hidden costs? (with Duygu Salman \"{O}zt\"{u}rk and Emre Y\i ld\i z.) (Data was collected on May 13, 2017. Paper is planned to be completed in September 2017.)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Gender and delegation of wage choice. (with Duygu Salman \"{O}zt\"{u}rk and Emre Y\i ld\i z.) (Data was collected on May 13, 2017. Paper is planned to be completed in September 2017.)
 
-
-
-
+- The effect of priming body image on economic preferences of young adults. (Data was collected on April 1-2, 2017. Paper is planned to be completed in September 2017.)
