@@ -6,9 +6,9 @@ Secondary: Judgment and decision making, organizational behavior, social psychol
 
 ## Publications
 
-- [Choice overload and asymmetric regret](https://goo.gl/3yW8kX). (with Özgür Evren.) Forthcoming in _Theoretical Economics_.
+- [Choice overload and asymmetric regret](https://econtheory.org/ojs/index.php/te/article/viewFile/20171029/18835/554). (with Özgür Evren.) Published in _Theoretical Economics_, 12(3), 2017.
 
-- [Persistence of cooperation in the absence of formal sanctions: an experimental investigation](https://goo.gl/ZqqCdp). (with Carl F. Fey, Mesut Karakaş, and Emre Yıldız.) Published in the _Academy of Management Proceedings_, Vol. 1, No. 1.
+- [Persistence of cooperation in the absence of formal sanctions: an experimental investigation](https://goo.gl/ZqqCdp). (with Carl F. Fey, Mesut Karakaş, and Emre Yıldız.) Published in _Academy of Management Proceedings_, 1(1), 2012.
 
 ## Working papers
 
