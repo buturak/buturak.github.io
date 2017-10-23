@@ -24,7 +24,7 @@ Secondary: Judgment and decision making, organizational behavior, social psychol
 
 - Rational choice deferral. (with Özgür Evren.) This paper has been replaced with the paper titled as _Choice overload and asymmetric regret_.
 
-- [Measuring time optimisation due to digitalisation in banking services](https://goo.gl/CBiHKL). (with Anna Felländer, Stefan Fölster, and Claire Ingram-Bogusz.)
+- Measuring time optimisation due to digitalisation in banking services. (with Anna Felländer, Stefan Fölster, and Claire Ingram-Bogusz.) (Available on request.)
 
 - Gender (counter-)stereotypes in media and women's willingness to compete. (with Duygu Salman Öztürk and Emre Yıldız.) (Available on request.)
 
