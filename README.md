@@ -12,8 +12,6 @@ Secondary: Judgment and decision making, organizational behavior, social psychol
 
 ## Working papers
 
-- [Gender (counter-)stereotypes in media and women's willingness to compete](https://goo.gl/OxKWXA). (with Duygu Salman Öztürk and Emre Yıldız.) Submitted.
-
 - [Control increases stealing](https://goo.gl/Ng1RvZ). (with Duygu Salman Öztürk and Emre Yıldız.) Submitted.
 
 - [Characterizing self-selection into leadership and leadership styles: the role of physical and cognitive qualities](https://goo.gl/yZTXQ5). (with Duygu Salman Öztürk and Emre Yıldız.) This is the old version. A new version will soon be available.
@@ -27,6 +25,8 @@ Secondary: Judgment and decision making, organizational behavior, social psychol
 - Rational choice deferral. (with Özgür Evren.) This paper has been replaced with the paper titled as _Choice overload and asymmetric regret_.
 
 - [Measuring time optimisation due to digitalisation in banking services](https://goo.gl/CBiHKL). (with Anna Felländer, Stefan Fölster, and Claire Ingram-Bogusz.)
+
+- Gender (counter-)stereotypes in media and women's willingness to compete. (with Duygu Salman Öztürk and Emre Yıldız.) (Available on request.)
 
 ## Work in progress
 
