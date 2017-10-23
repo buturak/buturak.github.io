@@ -30,8 +30,8 @@ Secondary: Judgment and decision making, organizational behavior, social psychol
 
 ## Work in progress
 
-- Does control really have hidden costs? (with Duygu Salman Öztürk and Emre Yıldız.) (Data was collected on May 13, 2017. Paper is planned to be completed in September 2017.)
+- Does control really have hidden costs? (with Duygu Salman Öztürk and Emre Yıldız.) (Data was collected on May 13, 2017.)
 
-- Gender and delegation of wage choice. (with Duygu Salman Öztürk and Emre Yıldız.) (Data was collected on May 13, 2017. Paper is planned to be completed in September 2017.)
+- Gender and delegation of wage choice. (with Duygu Salman Öztürk and Emre Yıldız.) (Data was collected on May 13, 2017.)
 
-- The effect of priming body image on economic preferences of young adults. (Data was collected on April 1-2, 2017. Paper is planned to be completed in September 2017.)
+- The effect of priming body image on economic preferences of young adults. (Data was collected on April 1-2, 2017.)
