@@ -26,8 +26,6 @@ Secondary: Judgment and decision making, organizational behavior, social psychol
 
 - Measuring time optimisation due to digitalisation in banking services. (with Anna Felländer, Stefan Fölster, and Claire Ingram-Bogusz.) (Available on request.)
 
-## - Gender (counter-)stereotypes in media and women's willingness to compete. (with Duygu Salman Öztürk and Emre Yıldız.) (Available on request.)
-
 ## Work in progress
 
 - Does control really have hidden costs? (with Duygu Salman Öztürk and Emre Yıldız.) (Data was collected on May 13, 2017.)
