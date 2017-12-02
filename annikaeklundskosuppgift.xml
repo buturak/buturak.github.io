@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rdf:RDF SYSTEM "skos.dtd">
+<?xml-stylesheet type="text/xsl" href="skos-styleList.xsl"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <skos:ConceptScheme rdf:about="MyScheme">
+    <dc:title>Annika Eklunds Guide till Honsena</dc:title>
+    <dc:description>En guide till honsena</dc:description>
+    <dc:creator>Annika Eklund</dc:creator>
+  </skos:ConceptScheme>
+  <skos:Concept rdf:about="#honsochovrigaslagstamfaglar">
+    <skos:prefLabel xml:lang="sv">Hons och ovriga slags tamfaglar</skos:prefLabel>
+    <skos:altLabel xml:lang="sv">Jyckar</skos:altLabel>
+    <skos:altLabel xml:lang="sv">Byrackor</skos:altLabel>
+    <skos:narrower rdf:resource="#specificbreedsofchickens"/>
+    <skos:definition rdf:resource="http://sv.wikipedia.org/wiki/Hundar#"/>
+    <skos:example rdf:resource="http://sv.wikipedia.org/wiki/Fil:Norwegian_Elkhound.jpg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="#specificbreedsofchickens">
+    <skos:prefLabel>Specific breeds of chickens</skos:prefLabel>
+    <skos:narrower rdf:resource="#europeanbreedsofchickens"/>
+    <skos:broader rdf:resource="#honsochovrigaslagstamfaglar"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="#europeanbreedsofchickens">
+    <skos:prefLabel>European breeds of chickens</skos:prefLabel>
+    <skos:broader rdf:resource="#specificbreedsofchickens"/>
+    <skos:narrower rdf:resource="#svenskalanthonsraser"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="#svenskalanthonsraser">
+    <skos:prefLabel xml:lang="sv">Svenska lanthonsraser</skos:prefLabel>
+    <skos:altLabel xml:lang="sv">Svenska hons</skos:altLabel>
+    <skos:broader rdf:resource="#europeanbreedsofchickens"/>
+    <skos:narrower rdf:resource="#bohuslansdalssvarthona"/>
+    <skos:definition rdf:resource="#http://www.kackel.se/lantras_hons.html"/>
+    <skos:example rdf:resource="http://libris.kb.se/bib/795191"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="#bohuslansdalssvarthona">
+    <skos:prefLabel xml:lang="sv">Bohuslans-Dals svarthona</skos:prefLabel>
+    <skos:broader rdf:resource="#svenskalanthonsraser"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="#gotlandshona">
+    <skos:prefLabel xml:lang="sv">Gotlandshona </skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#hedemorahona">
+    <skos:prefLabel xml:lang="sv">Hedemorahona</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#kindahona">
+    <skos:prefLabel xml:lang="sv">Kindahona</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#orusthona">
+    <skos:prefLabel xml:lang="sv">Orusthona</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#asbohona">
+    <skos:prefLabel xml:lang="sv">asbohona</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#skanskblommehona">
+    <skos:prefLabel xml:lang="sv">Skansk blommehona</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#olandshona">
+    <skos:prefLabel xml:lang="sv">olandshona</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#olandskdvarghona">
+    <skos:prefLabel xml:lang="sv">olandsk dvarghona</skos:prefLabel>
+    <skos:altLabel xml:lang="sv">Spitehona</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#gammalsvenskdvarghona">
+    <skos:prefLabel xml:lang="sv">Gammalsvensk dvarghona</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#bjurholmshona">
+    <skos:prefLabel xml:lang="sv">Bjurholmshona</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>
