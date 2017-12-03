@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE rdf:RDF SYSTEM "skos.dtd">
-<?xml-stylesheet type="text/xsl" href="skos-styleList.xsl"?>
+<?xml-stylesheet type="text/xsl" href="skos-styleHie.xsl"?>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   
@@ -40,7 +40,7 @@
   </skos:Concept>
   
   <skos:Concept rdf:about="#svenskalanthonsraser">
-    <skos:prefLabel xml:lang="sv">Svenska lanthonsraser</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Svenska lanthönsraser</skos:prefLabel>
     <skos:altLabel xml:lang="sv">Svenska höns</skos:altLabel>
     <skos:broader rdf:resource="#europeanbreedsofchickens"/>
     <skos:narrower rdf:resource="#bohuslansdalssvarthona"/>
@@ -55,7 +55,7 @@
     <skos:narrower rdf:resource="#gammalsvenskdvarghona"/>
     <skos:narrower rdf:resource="#bjurholmshona"/>
     <skos:definition rdf:resource="#http://www.kackel.se/lantras_hons.html"/>
-    <skos:example rdf:resource="http://libris.kb.se/bib/795191"/>
+    <skos:example rdf:resource="https://www.slu.se/ew-nyheter/nyhetsarkiv/2015/3/svenska-lanthonsraser-far-arvsmassan-kartlagd/"/>
   </skos:Concept>
   
   <skos:Concept rdf:about="#bohuslansdalssvarthona">
@@ -154,7 +154,6 @@
     <skos:prefLabel xml:lang="sv">Gammalsvensk dvärghöna</skos:prefLabel>
     <skos:altLabel xml:lang="sv">Svensk dvärg</skos:altLabel>
     <skos:altLabel xml:lang="sv">Gammalsvensk dvärg</skos:altLabel>
-    <skos:altLabel>Swedish dwarf chicken</skos:altLabel>
     <skos:hiddenLabel>Gammalsvensk dvarg</skos:hiddenLabel>
     <skos:hiddenLabel>Svensk dvarg</skos:hiddenLabel>
     <skos:broader rdf:resource="#svenskalanthonsraser"/>
