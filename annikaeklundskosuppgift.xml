@@ -3,70 +3,173 @@
 <?xml-stylesheet type="text/xsl" href="skos-styleList.xsl"?>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  
   <skos:ConceptScheme rdf:about="MyScheme">
-    <dc:title>Annika Eklunds Guide till Honsena</dc:title>
-    <dc:description>En guide till honsena</dc:description>
+    <dc:title>En liten katalog över svenska lanthönsraser</dc:title>
+    <dc:description>Detta shcema ger end del av lanthönsrasers placering inom Dewey Decimal Katalog</dc:description>
     <dc:creator>Annika Eklund</dc:creator>
   </skos:ConceptScheme>
+  
   <skos:Concept rdf:about="#honsochovrigaslagstamfaglar">
-    <skos:prefLabel xml:lang="sv">Hons och ovriga slags tamfaglar</skos:prefLabel>
-    <skos:altLabel xml:lang="sv">Jyckar</skos:altLabel>
-    <skos:altLabel xml:lang="sv">Byrackor</skos:altLabel>
+    <skos:prefLabel xml:lang="sv">Höns och övriga slags tamfåglar</skos:prefLabel>
+    <skos:altLabel xml:lang="sv">Fjäderfä</skos:altLabel>
+    <skos:altLabel xml:lang="sv">Domesticerade lantbruksfåglar</skos:altLabel>
+    <skos:hiddenLabel>Hons och ovriga slags tamfaglar</skos:hiddenLabel>
+    <skos:altLabel>Fjaderfa</skos:altLabel>
     <skos:narrower rdf:resource="#specificbreedsofchickens"/>
-    <skos:definition rdf:resource="http://sv.wikipedia.org/wiki/Hundar#"/>
-    <skos:example rdf:resource="http://sv.wikipedia.org/wiki/Fil:Norwegian_Elkhound.jpg"/>
+    <skos:definition rdf:resource="https://en.wikipedia.org/wiki/Poultry"/>
+    <skos:example rdf:resource="http://library.uniteddiversity.coop/Food/Chickens/Storey%27s%20Illustrated%20Guide%20to%20Poultry%20Breeds%20Complete.pdf"/>
   </skos:Concept>
+  
   <skos:Concept rdf:about="#specificbreedsofchickens">
     <skos:prefLabel>Specific breeds of chickens</skos:prefLabel>
+    <skos:altLabel xml:lang="sv">Särskilda hönsraser</skos:altLabel>
+    <skos:hiddenLabel>Specific chicken breeds</skos:hiddenLabel>
+    <skos:hiddenLabel>Sarskilda honsraser</skos:hiddenLabel>
     <skos:narrower rdf:resource="#europeanbreedsofchickens"/>
     <skos:broader rdf:resource="#honsochovrigaslagstamfaglar"/>
+    <skos:definition rdf:resource="https://en.wikipedia.org/wiki/List_of_chicken_breeds"/>
   </skos:Concept>
+  
   <skos:Concept rdf:about="#europeanbreedsofchickens">
     <skos:prefLabel>European breeds of chickens</skos:prefLabel>
+    <skos:altLabel xml:lang="sv">Europeiska hönsraser</skos:altLabel>
+    <skos:hiddenLabel>Specific chicken breeds</skos:hiddenLabel>
     <skos:broader rdf:resource="#specificbreedsofchickens"/>
     <skos:narrower rdf:resource="#svenskalanthonsraser"/>
   </skos:Concept>
+  
   <skos:Concept rdf:about="#svenskalanthonsraser">
     <skos:prefLabel xml:lang="sv">Svenska lanthonsraser</skos:prefLabel>
-    <skos:altLabel xml:lang="sv">Svenska hons</skos:altLabel>
+    <skos:altLabel xml:lang="sv">Svenska höns</skos:altLabel>
     <skos:broader rdf:resource="#europeanbreedsofchickens"/>
     <skos:narrower rdf:resource="#bohuslansdalssvarthona"/>
+    <skos:narrower rdf:resource="#gotlandshona"/>
+    <skos:narrower rdf:resource="#hedemorahona"/>
+    <skos:narrower rdf:resource="#kindahona"/>
+    <skos:narrower rdf:resource="#orusthona"/>
+    <skos:narrower rdf:resource="#asbohona"/>
+    <skos:narrower rdf:resource="#skanskblommehona"/>
+    <skos:narrower rdf:resource="#olandshona"/>
+    <skos:narrower rdf:resource="#olandskdvarghona"/>
+    <skos:narrower rdf:resource="#gammalsvenskdvarghona"/>
+    <skos:narrower rdf:resource="#bjurholmshona"/>
     <skos:definition rdf:resource="#http://www.kackel.se/lantras_hons.html"/>
     <skos:example rdf:resource="http://libris.kb.se/bib/795191"/>
   </skos:Concept>
+  
   <skos:Concept rdf:about="#bohuslansdalssvarthona">
-    <skos:prefLabel xml:lang="sv">Bohuslans-Dals svarthona</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Bohuslän-Dals svarthöna</skos:prefLabel>
+    <skos:altLabel xml:lang="sv">Svarthöna</skos:altLabel>
+    <skos:altLabel>Swedish black chicken</skos:altLabel>
+    <skos:hiddenLabel xml:lang="sv">Bohusläns-Dals svarthöna</skos:hiddenLabel>
+    <skos:hiddenLabel>Bohuslan-Dals svarthona</skos:hiddenLabel>
     <skos:broader rdf:resource="#svenskalanthonsraser"/>
+    <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Bohuslän-Dals_svarthöna"/>
+    <skos:example rdf:resource="http://nordensark.se/vara-djur/lantraser/bohuslan-dals-svarthona/"/>
   </skos:Concept>
+  
   <skos:Concept rdf:about="#gotlandshona">
-    <skos:prefLabel xml:lang="sv">Gotlandshona </skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Gotlandshöna</skos:prefLabel>
+    <skos:altLabel xml:lang="sv">Gotländsk höna</skos:altLabel>
+    <skos:altLabel>Swedish Gotland chicken</skos:altLabel>
+    <skos:hiddenLabel>Gotlandshona</skos:hiddenLabel>
+    <skos:hiddenLabel xml:lang="sv">Gotlands hön</skos:hiddenLabel>
+    <skos:broader rdf:resource="#svenskalanthonsraser"/>
+    <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Gotlandshöna"/>
+    <skos:example rdf:resource="https://web.archive.org/web/20090313164719/http://www.nordensark.se/vaara-djur/lantgaard/gotlandshoena/"/>
   </skos:Concept>
+  
   <skos:Concept rdf:about="#hedemorahona">
-    <skos:prefLabel xml:lang="sv">Hedemorahona</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Hedemorahöna</skos:prefLabel>
+    <skos:altLabel>Hemedora chicken</skos:altLabel>
+    <skos:hiddenLabel>Hemedorahona</skos:hiddenLabel>
+    <skos:broader rdf:resource="#svenskalanthonsraser"/>
+    <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Hedemorahöna"/>
+    <skos:example rdf:resource="http://www.skansen.se/en/hedemorahöna"/>
   </skos:Concept>
+  
   <skos:Concept rdf:about="#kindahona">
-    <skos:prefLabel xml:lang="sv">Kindahona</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Kindahöna</skos:prefLabel>
+    <skos:altLabel>Swedish Kinda chicken</skos:altLabel>
+    <skos:altLabel xml:lang="sv">Hön från Östergötland</skos:altLabel>
+    <skos:hiddenLabel>Kindahona</skos:hiddenLabel>
+    <skos:broader rdf:resource="#svenskalanthonsraser"/>
+    <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Kindahöna"/>
+    <skos:example rdf:resource="http://smakasverige.jordbruksverket.se/ravaror/ravarorarkiv/kindahona.153.html"/>
   </skos:Concept>
+  
   <skos:Concept rdf:about="#orusthona">
-    <skos:prefLabel xml:lang="sv">Orusthona</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Orusthöna</skos:prefLabel>
+    <skos:altLabel>Orust chicken</skos:altLabel>
+    <skos:hiddenLabel>Orusthona</skos:hiddenLabel>
+    <skos:broader rdf:resource="#svenskalanthonsraser"/>
+    <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Orusthöna"/>
+    <skos:example rdf:resource="http://smakasverige.jordbruksverket.se/ravaror/ravarorarkiv/orusthona.152.html"/>
   </skos:Concept>
+  
   <skos:Concept rdf:about="#asbohona">
-    <skos:prefLabel xml:lang="sv">asbohona</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Åsbohöna</skos:prefLabel>
+    <skos:altLabel xml:lang="sv">Småländsk höna</skos:altLabel>
+    <skos:altLabel xml:lang="sv">Nordskånsk höna</skos:altLabel>
+    <skos:altLabel xml:lang="sv">Swedish Småland chicken</skos:altLabel>
+    <skos:hiddenLabel>Asbohona</skos:hiddenLabel>
+    <skos:broader rdf:resource="#svenskalanthonsraser"/>
+    <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Åsbohöna"/>
+    <skos:example rdf:resource="http://smakasverige.jordbruksverket.se/ravaror/ravarorarkiv/asbohona.151.html"/>
   </skos:Concept>
+  
   <skos:Concept rdf:about="#skanskblommehona">
-    <skos:prefLabel xml:lang="sv">Skansk blommehona</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Skånsk blommehöna</skos:prefLabel>
+    <skos:altLabel xml:lang="sv">Blommehöna</skos:altLabel>
+    <skos:altLabel>Swedish flower chicken</skos:altLabel>
+    <skos:hiddenLabel>Asbohona</skos:hiddenLabel>
+    <skos:broader rdf:resource="#svenskalanthonsraser"/>
+    <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Skånsk_blommehöna"/>
+    <skos:example rdf:resource="https://www.youtube.com/watch?v=E4MSRcVlKpI"/>
   </skos:Concept>
+  
   <skos:Concept rdf:about="#olandshona">
-    <skos:prefLabel xml:lang="sv">olandshona</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Ölandshöna</skos:prefLabel>
+    <skos:altLabel xml:lang="sv">Ölandshöns</skos:altLabel>
+    <skos:altLabel xml:lang="sv">Swedish Öland chicken</skos:altLabel>
+    <skos:hiddenLabel>Olandshona</skos:hiddenLabel>
+    <skos:broader rdf:resource="#svenskalanthonsraser"/>
+    <skos:definition rdf:resource="http://smakasverige.jordbruksverket.se/ravaror/ravarorarkiv/olandshona.150.html"/>
+    <skos:example rdf:resource="https://www.youtube.com/watch?v=Mg7PIQ1DlJE"/>
   </skos:Concept>
+  
   <skos:Concept rdf:about="#olandskdvarghona">
-    <skos:prefLabel xml:lang="sv">olandsk dvarghona</skos:prefLabel>
-    <skos:altLabel xml:lang="sv">Spitehona</skos:altLabel>
+    <skos:prefLabel xml:lang="sv">Öländsk dvärghöna</skos:prefLabel>
+    <skos:altLabel xml:lang="sv">Dvärghöna från Öland</skos:altLabel>
+    <skos:altLabel xml:lang="sv">Öland dwarf chicken</skos:altLabel>
+    <skos:hiddenLabel>Olandsk dvarghona</skos:hiddenLabel>
+    <skos:hiddenLabel xml:lang="sv">Dvärghöna Öland</skos:hiddenLabel>
+    <skos:broader rdf:resource="#svenskalanthonsraser"/>
+    <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Öländsk_dvärghöna"/>
+    <skos:example rdf:resource="http://smakasverige.jordbruksverket.se/ravaror/ravarorarkiv/olandskdvarghona.149.html"/>
   </skos:Concept>
+  
   <skos:Concept rdf:about="#gammalsvenskdvarghona">
-    <skos:prefLabel xml:lang="sv">Gammalsvensk dvarghona</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Gammalsvensk dvärghöna</skos:prefLabel>
+    <skos:altLabel xml:lang="sv">Svensk dvärg</skos:altLabel>
+    <skos:altLabel xml:lang="sv">Gammalsvensk dvärg</skos:altLabel>
+    <skos:altLabel>Swedish dwarf chicken</skos:altLabel>
+    <skos:hiddenLabel>Gammalsvensk dvarg</skos:hiddenLabel>
+    <skos:hiddenLabel>Svensk dvarg</skos:hiddenLabel>
+    <skos:broader rdf:resource="#svenskalanthonsraser"/>
+    <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Svensk_dvärg"/>
+    <skos:example rdf:resource="http://nordensark.se/vara-djur/lantraser/gammalsvensk-dvarghona/"/>
   </skos:Concept>
+  
   <skos:Concept rdf:about="#bjurholmshona">
-    <skos:prefLabel xml:lang="sv">Bjurholmshona</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Bjurholmshöna</skos:prefLabel>
+    <skos:altLabel xml:lang="sv">Dvärghöna från Bjurholm </skos:altLabel>
+    <skos:altLabel>Swedish Bjurholm chicken</skos:altLabel>
+    <skos:hiddenLabel>Bjurholmshona</skos:hiddenLabel>
+    <skos:broader rdf:resource="#svenskalanthonsraser"/>
+    <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Bjurholmshöna"/>
+    <skos:example rdf:resource="http://sverigesradio.se/sida/artikel.aspx?programid=109&amp;artikel=5409381"/>
   </skos:Concept>
+  
 </rdf:RDF>
