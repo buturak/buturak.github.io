@@ -6,7 +6,7 @@
   
   <skos:ConceptScheme rdf:about="MyScheme">
     <dc:title>En liten katalog över svenska lanthönsraser</dc:title>
-    <dc:description>Detta shcema ger end del av lanthönsrasers placering inom Dewey Decimal Katalog</dc:description>
+    <dc:description>Detta schema ger en del av lanthönsrasers placering inom Dewey Decimal Katalog</dc:description>
     <dc:creator>Annika Eklund</dc:creator>
   </skos:ConceptScheme>
   
